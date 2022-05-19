@@ -24,3 +24,4 @@ public enum ChessColor {
         return color;
     }
 }
+if（a-b)
