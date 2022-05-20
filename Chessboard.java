@@ -117,3 +117,5 @@ public class Chessboard extends JComponent {
         chessData.forEach(System.out::println);
     }
 }
+
+//
